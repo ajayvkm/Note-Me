@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Note Me</string>
+    <!-- Main Activity -->
+    <string name="note">Note</string>
+    <string name="list">List</string>
+    <string name="subscription">Sub</string>
+    <string name="home">Home</string>>
+    <string name="add">Add</string>
+
+    <!-- Add note fragments -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_note">Note</string>
+    <string name="addNote">Add</string>
+    <string name="addNoteBar">Add Me</string>
+    <string name="datePicker">Remind me at?</string>
+    <string name="description">Description</string>
+    <!--All Note fragment -->
+    <string name="viewNoteBar">All Notes</string>
+    <!--Add Dialog fragment -->
+    <string name="make">Make A..?</string>
+    <!-- Add Subscription fragment-->
+    <string name="addSubscriptionBar">Add Subscription</string>
+    <string name="subTitle">Name</string>
+    <string name="subDescription">Remind me for?</string>
+    <string name="expiryDate">Expires at?</string>
+    <string name="viewSubBar">All Subscriptions</string>
+    <string name="sub">Subs</string>
+
+    <!-- Add List fragment-->
+    <string name="addList">Add</string>
+    <string name="addItem">Add an Item</string>
+    <string name="update">Update</string>
+</resources>
